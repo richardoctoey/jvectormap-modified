@@ -31,5 +31,6 @@
   },
   "devDependencies": {
     "uglify-js": "^2.4.10"
-  }
+  },
+  "gitHead": "595027bb0a369965cdb46e0bdde408ad4c21896e"
 }
