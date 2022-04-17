@@ -16,8 +16,9 @@
     // Browser globals
     factory(jQuery);
   }
-}(function ($) {
+}(function ($, obj) {
   jvm.$ = $;
+  obj = jvm;
 
   var apiParams = {
         set: {
